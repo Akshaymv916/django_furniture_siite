@@ -1,3 +1,4 @@
+
 # Furniture Website (Frontend)
 
 ## Overview
@@ -18,7 +19,7 @@ This project involves the design and development of a fully responsive furniture
 - **Usability and Accessibility**: Emphasis on user experience and accessibility to cater to all users.
 
 
-![Description of the image](screenshots/Screenshot%20(247).png)
+![Description of the image](screenshots/Screenshot%20(248).png)
 
 ![Description of the image](screenshots/Screenshot%20(249).png)
 
