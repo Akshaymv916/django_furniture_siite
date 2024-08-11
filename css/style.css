@@ -307,8 +307,9 @@ body {
 .header {
   min-height: 80vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/lamp-design-with-digital-art-style.jpg") center/cover no-repeat fixed;
+    url("../images/IMG_20240811_203127.jpg") center/cover no-repeat fixed;
   position: relative;
+  
 }
 
 .banner {
